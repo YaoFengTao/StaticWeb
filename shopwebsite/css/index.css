@@ -1,0 +1,34 @@
+.container{
+    width: 1190px;
+    margin: 0 auto;
+}
+
+.topbar{
+    height: 30px;
+    background-color: #ECECEC;
+}
+
+.welcome{
+    height: 30px;
+    line-height: 30px;
+    font-size: 0;
+    color: #666;
+}
+
+.welcome span,.welcome a{
+    font-size: 12px;
+}
+
+.welcome .hello{
+    padding-right: 28px;
+}
+
+.welcome .login{
+    padding-right: 10px;
+    
+}
+
+.welcome .register{
+    padding-left: 10px;
+    border-left:1px solid black ;
+}
